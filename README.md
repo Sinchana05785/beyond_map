@@ -33,6 +33,3 @@ Beyond Maps helps travelers find hidden gems, get personalized itineraries, and 
    ```bash
    docker-compose up -d mysql redis
    ```
-
-## License
-MIT
